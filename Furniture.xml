@@ -1,0 +1,339 @@
+<Furniture>
+  <LivingRoom> 
+  	<furniture1>
+  		<Product>TV storage</Product>
+		<description>Its easy to keep the cords from your TV and other devices out of sight but close at hand, as there are several cord outlets at the back of the TV bench.</description>
+		<materials>
+				Back panel:Fiberboard, Paper foil, Plastic foil
+				Metal part: Steel, Nickel plated
+				Plastic parts: Acetal plastic
+		</materials>
+		<price>$1,175.00</price>
+		</furniture1>
+  		<furniture2>
+	  		<Product>TV Unit</Product>
+			<description>A TV unit is a console or cabinet that is designed to house your television and any other entertainment equipment, such as DVD players, video game consoles, and more. Designer TV units are stylish furniture pieces on their own that can often serve as the statement piece in a living room to draw attention away from the screen when not in use.</description>
+			<materials>
+				<materials1>
+					Top panel Drawer front Rail:
+						Solid pine, Adhesive, Stain, Clear acrylic lacquer
+					Drawer side Drawer back Drawer rail:
+						Solid pine, Adhesive
+					Drawer bottom Back panel:
+						Fiberboard
+				</materials1>
+			</materials>
+			<price>$329.99</price>
+			</furniture2>
+  			<furniture3>
+		  		<Product>4-seat mod sofa w chaise</Product>
+				<description>The modules have a soft comfort with high-resilience foam and pocket springs that follow your body and provide support – whether you are sitting, lying down or hanging out on the sofa.</description>
+				<materials>
+					<materials1>
+						1.5-seat module with storage chaise module, right
+						Smolder resistant lining Smolder resistant lining:
+							Polyester wadding
+						Seat frame:
+							Laminated veneer lumber, Particleboard, Fiberboard, Plywood, Solid wood, Polyurethane foam 1.2 lb/cu.ft., Acrylic paint, Melamine foil
+						Back frame:
+							Solid wood, Particleboard, Fiberboard, Plywood, Polyurethane foam 1.2 lb/cu.ft., Polyurethane foam 1.5 lb/cu.ft.
+					</materials1>
+				</materials>
+				<price>$2,330.00</price>
+				</furniture3>
+					<furniture4>
+				  		<Product>Shelving unit with underframe</Product>
+						<description>Shelving unit with underframe</description>
+						<materials>
+							<materials1>
+								Particleboard, Fiberboard, Acrylic paint, Honeycomb structure paper filling (100% recycled), Plastic edging, Plastic edging, Plastic edging
+								Base on legs
+								Steel, Epoxy/polyester powder coating
+							</materials1>
+						</materials>
+						<price>$89.99</price>
+						<furniture5>
+					  		<Product>Shelf unit</Product>
+							<description>Particleboard, Fiberboard, Acrylic paint, Honeycomb structure paper filling (100% recycled), Plastic edging, Plastic edging, Plastic edging</description>
+							<materials>
+								<materials1>
+									Particleboard, Fiberboard, Acrylic paint, Honeycomb structure paper filling (100% recycled), Plastic edging, Plastic edging, Plastic edging
+								</materials1>
+							</materials>
+							<price>$89.99</price>
+						</furniture5>
+  </LivingRoom>
+  <DiningSet>
+  	<furniture>
+  		<Product>Barrymore Oak Dining Table</Product>
+		<description>he beloved Barrymore dining table gets a relaxed modern update. Crafted from oak, which is wire-brushed by hand to bring out the wood grain, it has the chic, transitional profile you know and love, with the versatility to mix and match with a wide array of dining furniture.</description>
+		<materials>
+			<materials1>
+				Made in Indonesia to Ethan Allen's standards and specifications
+				Packaged weight: 202 lbs.
+				Product weight: 177 lbs.
+			</materials1>
+		</materials>
+		<price>$2,800.00</price>
+	</furniture>
+  		<furniture2>
+	  		<Product>Berkshire Side Chair</Product>
+			<description>These solid Appalachian hardwood chairs with contoured seats are named for the fan shape the spindles make from base to back rail: a recognizable, comforting silhouette.</description>
+			<materials>
+				<materials1>
+					Made in Honduras to Ethan Allen's standards and specifications
+					Maximum weight capacity: 240 lbs
+					Packaged weight: 47 lbs
+				</materials1>
+			</materials>
+			<price>$490.00</price>
+		</furniture2>
+  			<furniture3>
+		  		<Product>Desmond Dining Table</Product>
+				<description>Feast your eyes upon Desmond's gently curved tabletop edges, cathedral walnut veneers, and hand-placed primavera inlay. Look underneath, and you'll find a stately finishing touch: detailed cove molding on each of its two pedestals. When you use both of its extension leaves, up to 10 people can attend your next grand affair.</description>
+				<materials>
+					<materials1>
+						Made in Indonesia to Ethan Allen's standards and specifications
+						Packaged weight: Top 244 lbs./ Base 97 lbs.
+						Product weight: 278 lbs.
+					</materials1>
+				</materials>
+				<price>$5,995.00</price>
+			</furniture3>
+					<furniture4>
+				  		<Product>Cambridge Linear Chandelier</Product>
+						<description>inspired by exposed gears, we took mechanical design and made it chic. This linear chandelier's oil-rubbed bronze finish and touches of brass unite yesteryear's charm with today's love of detail.</description>
+						<materials>
+							<materials1>
+								Made in China to Ethan Allen's standards and specifications
+								Shade dimensions: Shade top: 3.5"
+								Shade bottom: 5.5"
+								Shade height: 7"
+								Product weight: 18.9 lbs.
+								Package weight: 23.1 lbs.
+								ETL Listed
+							</materials1>
+						</materials>
+						<price>$1,160.00</price>
+					</furniture4>
+					<furniture5>
+					  		<Product>Evansview Round Dining Table</Product>
+							<description>Marlene Dietrich once said that the art of having beautiful legs is knowing what to do with them. Our Evansview round pedestal dining table takes this advice to heart: Its elegant champagne brass-finished pedestal is practically daring you to stare. </description>
+							<materials>
+								<materials1>
+									Made in Indonesia to Ethan Allen's standards and specifications
+									Packaged Weight: Base: 91lbs/Top: 125lbs
+									Product Weight: Base: 42lbs/Top: 103lbs
+								</materials1>
+							</materials>
+							<price>$4,750.00</price>
+					</furniture5>
+  </DiningSet>
+  <BedroomSets>
+  	<furniture>
+  		<Product>Elsen Custom Leather Storage Bed</Product>
+		<description>An angular, Parsons-style profile gives this leather storage bed a modern look, while a deep drawer hidden in the footboard adds everyday practicality. Choose your favorite leather, from soft neutrals that age beautifully to bold colors. Then, add details like tufting and nailhead trim, all of which our North American artisans will tailor for you by hand.</description>
+		<materials>
+			<materials1>
+				Hand-tailored in North America by Ethan Allen artisans
+				This bed is comprised of the following pieces:
+				Queen: 722535 (54" headboard); 722545 (62" headboard); 722555 (70" headboard) + 722355 (queen storage base)
+				King: 722536 (54" headboard); 722546 (62" headboard); 722556 (70" headboard) + 722356 (king storage base)
+				Cal. King: 722537 (54" headboard); 722547 (62" headboard); 722557 (70" headboard) + 722357 (Cal. king storage base)
+				Click here to view product and packaged weights
+				Because our upholstery is tailored by hand—manually cut, sewn, and fitted to each frame—dimensions may vary slightly from piece to piece; dimensions listed have been rounded up to the next whole inch
+				Headboard leg height: 5"
+				Base leg height: 5"
+				Measurement from top of slats to top of rails: 1.25"
+			</materials1>
+		</materials>
+		<price>$5,000.00</price>
+	</funiture>
+  		<furniture2>
+	  		<Product>Continental Double Dresser</Product>
+			<description>Gustavian influences are seen in the classic woodworking techniques used to craft our Continental double dresser. Decorative molding, tapered legs, and six roomy drawers, create a gorgeous storage piece for your suite. Multiple custom finishes available.</description>
+			<materials>
+				<materials1>
+					Made in Honduras to Ethan Allen's standards and specifications
+					Maple Double Dresser Product weight: 185 lbs; Packaged weight: 220 lbs
+					Oak Double Dresser Product weight: 210 lbs; Packaged weight: 245 lbs
+				</materials1>
+			</materials>
+			<price>$2,990.00</price>]
+		</furniture2>
+  			<furniture3>
+		  		<Product>Silver Leaf Spindle Mirror</Product>
+				<description>Viewed from afar, dozens of spindles with almond-shaped finials make this mirror look as if it's floating within a metallic frame. Up close, you'll see that each spindle is finished with hand-applied silver leaf to take this mirror's appearance from industrial to undeniably chic.
+				</description>
+				<materials>
+					<materials1>
+						Made in India to Ethan Allen's standards and specifications
+					</materials1>
+				</materials>
+				<price>$950.00</price>
+			</urniture3>
+					<furniture4>
+				  		<Product>Rosette Wall Mirror</Product>
+						<description>A blend of old and new. Nine mirrors are antiqued by hand, made to look old by way of an old-fashioned process. Then they’re framed in clean, contemporary, solid wood that’s finished in an aged silver patina. The delicate rosettes that give this mirror its name accent each corner of the center panel. With the handwork involved, every mirror is unique.</description>
+						<materials>
+							<materials1>
+								Product weight: 57 lbs.
+								Packaged weight: 69 lbs.
+								Made in the U.S. by Ethan Allen artisans
+							</materials1>
+						</materials>
+						<price>$891.99</price>
+					</urniture4>
+					<furniture5>
+					  		<Product>DREAM eazzz™ Copper Latex Mattres</Product>
+							<description>Defy gravity while you're in dreamland with the weightless feel of our state-of-the-art DREAM eazzz™ copper latex mattress. A premium core made from ultra-high-density and high-density foam provides a level of support you won't find in most bed-in-a-box mattresses.</description>
+							<materials>
+								<materials1>
+									To ensure that your DREAM eazzz™ mattress restores to its full size and functions properly, it must be opened within 90 days of manufacture; you'll find the date of manufacture stamped on the top of the box.
+									DREAM eazzz™ mattresses are rolled and vacuum-packed for initial delivery purposes only. They cannot be put back into their box once removed.
+									Mattress orders that have entered the shipping process cannot be cancelled, returned, exchanged, or refunded.
+									Ethan Allen mattresses do not contain any fire-retardant chemicals. This mattress has been tested and meets industry requirement 16 CFR 1633.
+									Ethan Allen mattresses are held to rigorous quality specifications. Our products are designed to offer you the comfort and support you need for quality, restorative sleep.
+									Made in the U.S.
+									Local recycling fees may apply
+								</materials1>
+							</materials>
+							<price>$2,340.00</price>
+					</furniture5>
+  </BedroomSets>
+  <HomeOfficeSets>
+  	<furniture>
+   		<Product>Continental Peninsula Desk</Product>
+		<description>Like to spread out when you work? Or maybe you need an informal meeting place? Our Continental peninsula desk offers more surface space for your 9 to 5 needs. Featuring decorative molding that nods to its Gustavian style influences, its L-shaped profile makes the most of minimal space.</description>
+		<materials>
+			<materials1>
+				Crafted in North America by Ethan Allen artisans
+				Knee Space: 53.25" W x 36" D x 24.5" H
+				Packaged Weight: Base: 130 lbs. / Top: 120 lbs.
+				Product Weight: Base: 1,155 lbs. / Top: 110 lbs.
+			</materials1>
+		</materials>
+		<price>$,175.00</price>
+	</furniture>
+  		<furniture2>
+	  		<Product>Continental File Bookcase, Glass Doors</Product>
+			<description>Hardworking file cabinet below, stylish glass-door cabinet above—this storage sensation offers room for files plus ample display space for favorite keepsakes and awards. Customizable in your choice of wood and hardware finish and versatile enough to use outside your office, too.</description>
+			<materials>
+				<materials1>
+					Continental Large Base File Cabinet (159010)
+					Continental Large Upper Cabinet: Glass Doors (159013)
+					Continental Crown Molding (159005)
+					Made in North America by Ethan Allen artisans
+					Product Weight: 240 lbs.
+				</materials1>
+			</materials>
+			<price>$3,129.99</price>
+		</furniture2>
+  			<furniture3>
+		  		<Product>Continental Double Office Island with Bridge Des</Product>
+				<description>Two can work from home thanks to this double-desk configuration of our Continental double office island. With a peninsula desk on one side and a bridge desk between two spacious bookcases—one of which features a base file cabinet—it's customizable in your choice of wood finish.</description>
+				<materials>
+					<materials1>
+						Continental Peninsula Desk (159030)
+						Continental Large Base Cabinet: Three-Drawer File Cabinet (159010)
+						Continental Bridge Desk (159006)
+						Continental Large Upper Cabinet: Glass Doors (159013)
+						Continental Large Upper Cabinet: Open Shelves (159011)
+						Continental Crown Molding (159005)
+						Made in North America by Ethan Allen artisans
+						Product Weight: 700 lbs.
+					</materials1>
+				</materials>
+				<price>$4,330.00</price>
+			</furniture3>
+					<furniture4>
+				  		<Product>Continental Grand Office Island, Glass Doors</Product>
+						<description>Quadruple cabinets with a mix of file storage, open shelving, and eye-catching glass-door display space create a bold focal point for any home office hub. A single spacious peninsula desk completes this grand home office solution, which is customizable with your choice of wood and hardware finishes.</description>
+						<materials>
+							<materials1>
+								Continental Peninsula Desk (159030)
+								2 Continental Large Upper Cabinets: Open Shelves (159011)
+								3 Continental Large Base File Cabinets (159010)
+								2 Continental Large Upper Cabinets: Glass Doors (159013)
+								Continental Crown Molding (159005)
+								Made in North America by Ethan Allen artisans
+								Product Weight: 1,190 lbs.
+							</materials1>
+						</materials>
+						<price>$11,389.99</price>
+					</furniture4>
+					<furniture5>
+					  		<Product>Continental File Bookcase with Bridge Desk</Product>
+							<description>Streamline your workday with a simple yet productive office ensemble. Our Continental file bookcase, enhanced by an attached bridge desk that puts storage and workspace side by side, can be customized in the wood and hardware finishes of your choice.</description>
+							<materials>
+								<materials1>
+									Continental Bridge Desk (159006)
+									Continental 20" Left Base: Wood Cabinet (159002L)
+									Continental 20" Upper Cabinet: Open Shelves (159001)
+									Continental Crown Molding (159005)
+								</materials1>
+							</materials>
+							<price>$999.99</price>
+					</furniture5>
+  </HomeOfficeSets>
+  <OutdoorDecor>
+  	<furniture>
+  		<Product>Breckett Metal Hurricane</Product>
+		<description>Crafted from steel with a black powder-coated finish—which means they're suited for both indoor and outdoor use—our Breckett metal hurricanes get additional glimmer from painted brass details. Use them as sculptural centerpieces by day or bathe nighttime gatherings in the soft glow of candlelight.</description>
+		<materials>
+			<materials1>
+			Made in India to Ethan Allen's standards and specifications
+			Product weight: Large 16.7 lbs., Medium 12 lbs., Small 8.2 lbs.
+			Package weight: 12 lbs
+			</materials1>
+		</materials>
+		<price>$175.00</price>
+	</furniture>
+  		<furniture2>
+	  		<Product>Large Adara Cut Glass Hurricane</Product>
+			<description>Each Adara mouth-blown glass hurricane is handcrafted from recycled glass and then etched to create a unique ring pattern. The finished work is then set on a base of white sandstone, a raw material commonly used to make glass. The brilliant color is a winner—a matte finish gives it a modern edge.</description>
+			<materials>
+				<materials1>
+					Made in India to Ethan Allen's standards and specifications
+					Product weight: 12 lbs.,
+					Package weight: 14.5 lbs.
+				</materials1>
+			</materials>
+			<price>$99.99</price>
+		</furniture2>
+  			<furniture3>
+		  		<Product>Tobin Concrete Accent Table</Product>
+				<description>This sturdy faux bois accent table brings nature indoors with poured concrete and details hand-carved by master masons. Each piece is one-of-a-kind, and its natural finish ensures each piece ages elegantly with a subtle darkening of color and tasteful, weather-worn crackling.</description>
+				<materials>
+					<materials1>
+						Made in the Philippines to Ethan Allen's standards and specifications
+						Packaged weight: 66 lbs.
+						Product weight: 45 lbs.
+					</materials1>
+				</materials>
+				<price>$330.00</price>
+			</furniture3>
+					<furniture4>
+				  		<Product>Pierced Garden Seat</Product>
+						<description>Using techniques that have remained unchanged for hundreds of years and materials from Jiangxi (the source of some of the world's finest porcelain clay), craftsmen create these exquisite hand-made porcelain stools. Their methods are traditional, intensely detailed, and increasingly rare. Each stool is painted entirely by hand.</description>
+						<materials>
+							<materials1>
+								Made in China to Ethan Allen's standards and specifications
+							</materials1>
+						</materials>
+						<price>$829.99</price>
+					</furniture4>
+					<furniture5>
+					  		<Product>Oxford Painted Glass Jar</Product>
+							<description>The perfect vessel for your favorite stems and greenery; gorgeous when grouped to create a centerpiece arrangement. Inspired by European mason jars, our Oxford decorative glass jar features a simple, wide painted band around its base. Beautiful both in elegant minimalist décor and in cozy farmhouse surroundings.</description>
+							<materials>
+								<materials1>
+									Made in India to Ethan Allen's standards and specifications
+									Product weight: Large 1.5 lbs., Small 1.25 lbs.
+									Package weight: Large 2.5 lbs., Small 2 lbs.
+								</materials1>
+							</materials>
+							<price>$89.99</price>
+					</furniture5>
+  </OutdoorDecor>
+</Furniture>
